@@ -1,2 +1,4 @@
 gallery_output.json
 node_modules
+.env
+.idea
